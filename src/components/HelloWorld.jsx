@@ -4,7 +4,7 @@ import '../assets/styles/App.scss'
 
 const HelloWorld = () => (
 	<div>
-		<h1>Hello World</h1>
+		<h1>Minimal project in ReactJS + Babel + Webpack</h1>
 		{/* <img src={Logo} alt="logo" /> */}
 	</div>
 )
