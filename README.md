@@ -1,24 +1,52 @@
-### **Base React**
+![](https://res.cloudinary.com/efrenmartinez/image/upload/v1628112149/covers-github/react-js-base_laoswv.png)
 
-Project base with React.js
+### 🎯 Used technologies:
+  * ReactJS
+  * Webpack
+  * Babel
+  * Eslint
+  * Prettier
+  * [Husky](https://typicode.github.io/husky/#/)
+  * SCSS
+  * [file-loader](https://github.com/webpack-contrib/file-loader)
 
-#### Stack
+### 🎯 Plugins Babel
+  * babel-loader
+  * @babel/preset-env
+  * @babe/preset-react
+  * @babel/core
 
-- Used technologies:
-  - React js
-  - SCSS
-  - Eslint
-  - Babel
-  - Webpack
-  - file-loader
+### 🎯 Plugins Webpack
+  * css-loader
+  * mini-css-extract-plugin
 
-#### Run the project
+### 🎯 Plugins Eslint
+  * eslint
+  * babel-eslint
+  * eslint-config-airbnb
+  * eslint-plugin-import
+  * eslint-plugin-jsx-a11y
+  * eslint-plugin-react
 
-- Clone the repository.
-- Run command `npm install` or `yarn install` to install dependencies.
-- Run command `npm run start` to run mode development.
-- Open the project `http://localhost:8000`
+### 🎯 Plugins Prettier
+  * prettier
+  * eslint-plugin-prettier
+  * eslint-config-prettier
 
-#### [License](https://choosealicense.com/licenses/mit/)
+### ⚙️ Run the project
 
-MIT © [Efrén Martínez](https://www.efren.xyz)
+Para poder clonar y correr el proyecto, necesitas **GIT**  y **NodeJS** instalada en tu computadora.
+
+```bash
+  # Clonar el repositorio.
+  $ git clone https://github.com/efrenmartinez/react-base.git
+
+  # Ir a la carpeta.
+  $ cd react-base
+
+  # Instalar dependencias con npm
+  $ npm install
+
+  # Correr el proyecto
+  $ npm run start
+```
