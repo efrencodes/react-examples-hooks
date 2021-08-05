@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/efrenmartinez/image/upload/v1628112149/covers-github/react-js-base_laoswv.png)
+![](https://res.cloudinary.com/efrenmartinez/image/upload/v1628187118/covers-github/react-examples-hooks_ikx3jv.png)
 
 ### 🎯 Used technologies:
   * ReactJS
@@ -9,29 +9,6 @@
   * [Husky](https://typicode.github.io/husky/#/)
   * SCSS
   * [file-loader](https://github.com/webpack-contrib/file-loader)
-
-### 🎯 Plugins Babel
-  * babel-loader
-  * @babel/preset-env
-  * @babe/preset-react
-  * @babel/core
-
-### 🎯 Plugins Webpack
-  * css-loader
-  * mini-css-extract-plugin
-
-### 🎯 Plugins Eslint
-  * eslint
-  * babel-eslint
-  * eslint-config-airbnb
-  * eslint-plugin-import
-  * eslint-plugin-jsx-a11y
-  * eslint-plugin-react
-
-### 🎯 Plugins Prettier
-  * prettier
-  * eslint-plugin-prettier
-  * eslint-config-prettier
 
 ### ⚙️ Run the project
 
